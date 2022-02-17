@@ -125,7 +125,7 @@ body{
     letter-spacing: 1.5px;
     text-transform: uppercase;
     color: #B99BB6;
-    margin-top: 0;
+    margin-top: 10px;
     margin-bottom: 50px;
 }
 .screen3-row{
@@ -177,6 +177,29 @@ body{
     color: #5F4D5D;
     margin-bottom: 10px;
     margin-right: 66px;
+}
+.screen5{
+    padding: 40px 224px 41px 144px;
+    display: flex;
+    column-gap: 93px;
+    border-bottom: 1px solid #D7B7D4;
+}
+.screen5-title{
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+}
+.screen5-para{
+    font-family: Cormorant Garamond, serif;
+    font-size: 24px;
+    line-height: 30px;
+    color: #5F4D5D;
+    margin-bottom: 7px;
 }
 
 
